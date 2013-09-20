@@ -1,1 +1,10 @@
-["redis-brain.coffee", "shipit.coffee","github-issue-link", "github-activity", "github-commits", "github-issues" ]
+[
+    "redis-brain.coffee", 
+    "shipit.coffee",
+    "github-issue-link", 
+    "github-activity", 
+    "github-commits", 
+    "github-issues", 
+    "not-a-script",
+    "rules" 
+]
