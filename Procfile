@@ -1,1 +1,1 @@
-web: bin/hubot -a campfire -n Forkbot
+web: bin/hubot -a irc -n Forkbot
